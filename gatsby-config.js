@@ -14,7 +14,7 @@ module.exports = {
     siteHeadline: 'AV- Personal Site',
     author: `@AV`,
     siteLanguage: 'en',
-    siteDescription: 'Personal Blog and Website of Kaan Uzdogan',
+    siteDescription: 'AV Personal Blog',
   },
   plugins: [
     {
