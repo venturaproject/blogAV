@@ -10,7 +10,6 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitleAlt: `AV Blog - Gatsby Theme`,
     siteTitle: `AV Blog`,
-    siteTitleAlt: `AV Blog`,
     siteHeadline: 'AV- Personal Site',
     author: `@AV`,
     siteLanguage: 'en',
