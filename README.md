@@ -262,7 +262,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 
 ### Themes
 
-- To learn more about Gatsby themes specifically, we recommend checking out the [theme docs](https://www.gatsbyjs.com/docs/themes/).
+- To learn more about themes specifically, we recommend checking out the [theme docs](https://www.gatsbyjs.com/docs/themes/).
 
 ### General
 
